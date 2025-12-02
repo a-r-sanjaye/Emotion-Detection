@@ -1,3 +1,5 @@
+fer
 opencv-python
-FER Dataset
 numpy
+tensorflow
+mtcnn
