@@ -38,5 +38,5 @@ This project is a Real-Time Emotion Detection Application that identifies human 
 
  📸 Output Preview  
 
-    ![Preview](screenshots/output_example.png)
+    ![Preview] ("https://github.com/a-r-sanjaye/Emotion-Detection/blob/main/Output_1.png")
     ![Preview](screenshots/output_example.png)
